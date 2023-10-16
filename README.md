@@ -1,5 +1,5 @@
 # Zune-Space 🎵
-The goal of the Zunespace app is to provide the transformational power of music in health, education and well being. It represents the general use of music to reduce stress, depression, anxiety, activate the body and improve memory and awareness. This app is different than most music apps. Zunespace is limited to few classical music from the 90's. The developer (which is me) releases new builds (in this case, music) every month for you, users, to enjoy.<br />
+The Zunespace app harnesses music's transformative power for well-being. It focuses on classical tracks from the 90s, with new monthly releases. This unique approach aims to reduce stress, enhance mood, and boost cognitive functions.<br />
 
 This project is categorized in several stages:
 1. Hand sketching
