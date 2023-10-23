@@ -11,6 +11,10 @@
 		4C2FE4A62AE6632800C03059 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2FE4A52AE6632800C03059 /* ContentView.swift */; };
 		4C2FE4A82AE6632A00C03059 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C2FE4A72AE6632A00C03059 /* Assets.xcassets */; };
 		4C2FE4AB2AE6632A00C03059 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C2FE4AA2AE6632A00C03059 /* Preview Assets.xcassets */; };
+		4CE906C42AE670BE00D8C74B /* SongCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE906C32AE670BE00D8C74B /* SongCard.swift */; };
+		4CE906C62AE671B200D8C74B /* SongInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE906C52AE671B200D8C74B /* SongInfo.swift */; };
+		4CE906C82AE6878200D8C74B /* ScaleButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE906C72AE6878200D8C74B /* ScaleButtonStyle.swift */; };
+		4CE906CA2AE68A0200D8C74B /* ZunespaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE906C92AE68A0200D8C74B /* ZunespaceModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		4C2FE4A52AE6632800C03059 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4C2FE4A72AE6632A00C03059 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C2FE4AA2AE6632A00C03059 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4CE906C32AE670BE00D8C74B /* SongCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongCard.swift; sourceTree = "<group>"; };
+		4CE906C52AE671B200D8C74B /* SongInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongInfo.swift; sourceTree = "<group>"; };
+		4CE906C72AE6878200D8C74B /* ScaleButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleButtonStyle.swift; sourceTree = "<group>"; };
+		4CE906C92AE68A0200D8C74B /* ZunespaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZunespaceModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +82,8 @@
 			isa = PBXGroup;
 			children = (
 				4C2FE4A52AE6632800C03059 /* ContentView.swift */,
+				4CE906C32AE670BE00D8C74B /* SongCard.swift */,
+				4CE906C52AE671B200D8C74B /* SongInfo.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -81,6 +91,7 @@
 		4C2FE4B22AE663A600C03059 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				4CE906C92AE68A0200D8C74B /* ZunespaceModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -95,6 +106,7 @@
 		4C2FE4B42AE663D500C03059 /* Styles */ = {
 			isa = PBXGroup;
 			children = (
+				4CE906C72AE6878200D8C74B /* ScaleButtonStyle.swift */,
 			);
 			path = Styles;
 			sourceTree = "<group>";
@@ -169,6 +181,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CE906C62AE671B200D8C74B /* SongInfo.swift in Sources */,
+				4CE906C82AE6878200D8C74B /* ScaleButtonStyle.swift in Sources */,
+				4CE906CA2AE68A0200D8C74B /* ZunespaceModel.swift in Sources */,
+				4CE906C42AE670BE00D8C74B /* SongCard.swift in Sources */,
 				4C2FE4A62AE6632800C03059 /* ContentView.swift in Sources */,
 				4C2FE4A42AE6632800C03059 /* ZunespaceApp.swift in Sources */,
 			);

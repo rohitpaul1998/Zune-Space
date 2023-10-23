@@ -11,7 +11,10 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack {
-                Text("Hello") /// this will output hello to the center
+                
+                SongCard(title: "Silent Lucidity", composer: "Queensrÿche", image: "nostalgia1")
+                    .padding(.all, 30)
+                
                 
                 HStack {
                     
