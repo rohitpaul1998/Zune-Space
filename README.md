@@ -11,7 +11,7 @@ This project is categorized in several stages:
 7. Go-live <br />
 
 ### Status
-- [ ] Hand sketching
+- [x] Hand sketching
 - [ ] Wireframing
 - [ ] Prototyping
 - [ ] Final design
