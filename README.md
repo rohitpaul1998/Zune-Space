@@ -4,16 +4,14 @@ The Zunespace app harnesses music's transformative power for well-being. It focu
 This project is categorized in several stages:
 1. Hand sketching
 2. Wireframing
-3. Prototyping
-4. Final design
-5. Development
-6. User testing
-7. Go-live <br />
+3. Final design
+4. Development
+5. User testing
+6. Go-live <br />
 
 ### Status
 - [x] Hand sketching
 - [x] Wireframing
-- [ ] Prototyping
 - [ ] Final design
 - [ ] Development
 - [ ] User testing
