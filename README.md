@@ -12,7 +12,7 @@ This project is categorized in several stages:
 
 ### Status
 - [x] Hand sketching
-- [ ] Wireframing
+- [x] Wireframing
 - [ ] Prototyping
 - [ ] Final design
 - [ ] Development
@@ -27,8 +27,7 @@ Attaching my hand sketches for Zunespace.<br />
 <img width="390" alt="zunespace-sketch4" src="https://github.com/rohitpaul1998/Zune-Space/assets/113409553/b9767372-b870-4b41-a6f7-46232f4b22c8"><br />  
 ## Wireframing
 Leveraged Figma for basic wireframing. Check out the wireframe preview:<br />  
-
-
+<img width="430" src="https://github.com/rohitpaul1998/Zune-Space/blob/main/wireframing-preview.mov" /><br /><br />  
 ## Prototyping
 ## Final design
 ## Development
