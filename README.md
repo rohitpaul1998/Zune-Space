@@ -13,9 +13,7 @@ This project is categorized in several stages:
 - [x] Hand sketching
 - [x] Wireframing
 - [ ] Final design
-- [ ] Development
-- [ ] User testing
-- [ ] Go-live<br /><br />
+- [ ] Development<br /><br />
 
 ## Hand sketching
 Attaching my hand sketches for Zunespace.<br />  
@@ -26,11 +24,12 @@ Attaching my hand sketches for Zunespace.<br />
 ## Wireframing
 Leveraged Figma for basic wireframing. Check out the wireframe preview:<br />  
 <img width="430" src="https://github.com/rohitpaul1998/Zune-Space/blob/main/wireframing-preview.mov" /><br /><br />  
-## Prototyping
 ## Final design
+By employing Figma, I was able to get a partial design as the project is still in development.  <br /><br />
+<img width="430" src="https://github.com/rohitpaul1998/Zune-Space/assets/113409553/999ba492-f5bf-4ade-bd91-2ef784d72b29" />
 ## Development
-## User testing
-## Go-live
+Due to privacy policy, I will not be pushing my code any longer for this app.  
+Feel free to connect with me via @ gerardnagarajan.r@northeastern.edu for a quick chat, exchange of ideas etc.
 
 
 
