@@ -12,7 +12,7 @@ This project is categorized in several stages:
 ### Status
 - [x] Hand sketching
 - [x] Wireframing
-- [ ] Final design
+- [x] Final design
 - [ ] Development<br /><br />
 
 ## Hand sketching
